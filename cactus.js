@@ -5,8 +5,8 @@ import {
   } from "./updateProperty.js"
   
   const SPEED = 0.07
-  const CACTUS_INTERVAL_MIN = 500
-  const CACTUS_INTERVAL_MAX = 2000
+  const CACTUS_INTERVAL_MIN = 700
+  const CACTUS_INTERVAL_MAX = 2200
   const worldElem = document.querySelector("[data-world]")
   
   let nextCactusTime
